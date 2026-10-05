@@ -1,0 +1,8 @@
+genome/
+data/
+*.fastq*
+*.fq*
+*.bam
+*.bai
+*.cov.gz
+*.txt.gz
